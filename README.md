@@ -16,8 +16,6 @@ Clean UI: Minimalist, distraction-free interface to keep the focus on the gamepl
 
 🎮 Games Included 
 
-Game	Description
-
 Sudoku	Classic 9x9 logic-based number placement puzzles.
 
 Word Hunt	Find hidden words in a grid to expand your vocabulary.
